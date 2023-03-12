@@ -38,9 +38,9 @@ const String text[] = {
 };
 
 const String lineimage[] = {
-  "imageThumbnail=https://i.pinimg.com/736x/26/be/b0/26beb09153b8df233d82e66bef3edfbb.jpg&imageFullsize=https://i.pinimg.com/736x/26/be/b0/26beb09153b8df233d82e66bef3edfbb.jpg",
-  "imageThumbnail=https://w0.peakpx.com/wallpaper/377/381/HD-wallpaper-sunny-anime-green-sky-sun.jpg&imageFullsize=https://w0.peakpx.com/wallpaper/377/381/HD-wallpaper-sunny-anime-green-sky-sun.jpg",
-  "imageThumbnail=https://i.ytimg.com/vi/CqKQsQfE3Mw/maxresdefault.jpg&imageFullsize=https://i.ytimg.com/vi/CqKQsQfE3Mw/maxresdefault.jpg"
+  "imageThumbnail=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/good.png&imageFullsize=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/good.png",
+  "imageThumbnail=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/sunny.png&imageFullsize=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/sunny.png",
+  "imageThumbnail=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/rain.png&imageFullsize=https://raw.githubusercontent.com/PKGzGMTH/kusrc-iot-project-example/main/rain.png"
 };
 
 const unsigned char image[][4096] = {
